@@ -22,10 +22,12 @@
     {
       "id": "tool-2",
       "name": "BASIC PANEL",
-      "version": "2.1.5",
+      "version": "2.1.6",
       "description": "অটোমেশনের জন্য সেরা টুল।",
       "download_url": "https://github.com/your-username/your-repo/releases/download/v2.1.5/autobot.exe",
+      "tag": "",
       "release_date": "2026-05-10",
+      "last_updated": "১৬ মে, ২০২৬ এ ১২:৪৪ PM",
       "status": "active"
     }
   ],
