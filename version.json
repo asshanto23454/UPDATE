@@ -1,6 +1,15 @@
 {
   "tools": [
     {
+      "id": "tool-1778905136675",
+      "name": "LOCATION PANEL",
+      "version": "1.0.0",
+      "description": "FFFF",
+      "download_url": "WS",
+      "release_date": "2026-05-16",
+      "status": "active"
+    },
+    {
       "id": "tool-1",
       "name": "PREMIUM PANEL",
       "version": "1.0.0",
