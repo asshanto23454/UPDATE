@@ -1,6 +1,17 @@
 {
   "tools": [
     {
+      "id": "tool-1779111764551",
+      "name": "EXTRANEL",
+      "version": "1.0.1",
+      "description": "RAR PASSWORD : 1",
+      "download_url": "https://drive.google.com/file/d/1PNzJ3Kutx2flG85W3ztL1ZygjGlJjta9/view?usp=sharing",
+      "tag": "",
+      "release_date": "2026-05-18",
+      "last_updated": "১৮ মে, ২০২৬ এ ০৯:৪২ PM",
+      "status": "active"
+    },
+    {
       "id": "tool-1779111500593",
       "name": "ENEMY LOCATION",
       "version": "1.0.0",
