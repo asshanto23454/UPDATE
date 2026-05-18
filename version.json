@@ -12,15 +12,6 @@
       "status": "active"
     },
     {
-      "id": "tool-1",
-      "name": "Super Tool Pro",
-      "version": "1.0.0",
-      "description": "এটি আমাদের প্রথম পাওয়ারফুল টুল।",
-      "download_url": "https://github.com/your-username/your-repo/releases/download/v1.0.0/tool1.zip",
-      "release_date": "2026-05-14",
-      "status": "maintenance"
-    },
-    {
       "id": "tool-2",
       "name": "Auto Bot Elite",
       "version": "2.1.5",
