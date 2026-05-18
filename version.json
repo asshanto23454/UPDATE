@@ -1,34 +1,22 @@
 {
   "tools": [
     {
-      "id": "tool-1778905136675",
-      "name": "LOCATION PANEL",
-      "version": "1.0.0",
-      "description": "FFFF",
-      "download_url": "WS",
-      "release_date": "2026-05-16",
-      "last_updated": "১৬ মে, ২০২৬ এ ১২:৩৩ PM",
-      "status": "active"
-    },
-    {
       "id": "tool-1",
-      "name": "PREMIUM PANEL",
+      "name": "Super Tool Pro",
       "version": "1.0.0",
       "description": "এটি আমাদের প্রথম পাওয়ারফুল টুল।",
-      "download_url": "https://drive.google.com/file/d/11iAEvWCqPtAOvh54k5tPd3urUCZrm--n/view?usp=sharing",
+      "download_url": "https://github.com/your-username/your-repo/releases/download/v1.0.0/tool1.zip",
       "release_date": "2026-05-14",
-      "status": "active"
+      "status": "maintenance"
     },
     {
       "id": "tool-2",
-      "name": "BASIC PANEL",
-      "version": "2.1.6",
+      "name": "Auto Bot Elite",
+      "version": "2.1.5",
       "description": "অটোমেশনের জন্য সেরা টুল।",
       "download_url": "https://github.com/your-username/your-repo/releases/download/v2.1.5/autobot.exe",
-      "tag": "",
       "release_date": "2026-05-10",
-      "last_updated": "১৬ মে, ২০২৬ এ ১২:৪৪ PM",
-      "status": "active"
+      "status": "maintenance"
     }
   ],
   "notices": [
