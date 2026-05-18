@@ -1,15 +1,5 @@
 {
-  "tools": [
-    {
-      "id": "tool-2",
-      "name": "Auto Bot Elite",
-      "version": "2.1.5",
-      "description": "অটোমেশনের জন্য সেরা টুল।",
-      "download_url": "https://github.com/your-username/your-repo/releases/download/v2.1.5/autobot.exe",
-      "release_date": "2026-05-10",
-      "status": "maintenance"
-    }
-  ],
+  "tools": [],
   "notices": [
     {
       "id": "1",
