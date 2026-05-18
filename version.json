@@ -1,31 +1,42 @@
 {
+  "notices": [
+    {
+      "content": "আমাদের সকল টুলের নতুন আপডেট আসছে আগামী সপ্তাহে। সাথেই থাকুন।",
+      "date": "2026-05-14",
+      "id": "1",
+      "title": "নতুন আপডেট!",
+      "type": "info"
+    }
+  ],
   "tools": [
     {
-      "id": "tool-1",
-      "name": "Super Tool Pro",
+      "id": "tool-1779117338742",
+      "name": "EXTANEL",
       "version": "1.0.0",
-      "description": "এটি আমাদের প্রথম পাওয়ারফুল টুল।",
-      "download_url": "https://github.com/your-username/your-repo/releases/download/v1.0.0/tool1.zip",
-      "release_date": "2026-05-14",
+      "description": "RAR PASSWORD : 1 ",
+      "download_url": "https://drive.google.com/file/d/1PNzJ3Kutx2flG85W3ztL1ZygjGlJjta9/view?usp=sharing",
+      "tag": "",
+      "release_date": "2026-05-18",
+      "last_updated": "১৮ মে, ২০২৬ এ ১১:১৫ PM",
       "status": "active"
     },
     {
-      "id": "tool-2",
-      "name": "Auto Bot Elite",
-      "version": "2.1.5",
+      "description": "এটি আমাদের প্রথম পাওয়ারফুল টুল।",
+      "download_url": "https://github.com/your-username/your-repo/releases/download/v1.0.0/tool1.zip",
+      "id": "tool-1",
+      "name": "Super Tool Pro",
+      "release_date": "2026-05-14",
+      "status": "active",
+      "version": "1.0.0"
+    },
+    {
       "description": "অটোমেশনের জন্য সেরা টুল।",
       "download_url": "https://github.com/your-username/your-repo/releases/download/v2.1.5/autobot.exe",
+      "id": "tool-2",
+      "name": "Auto Bot Elite",
       "release_date": "2026-05-10",
-      "status": "active"
-    }
-  ],
-  "notices": [
-    {
-      "id": "1",
-      "title": "নতুন আপডেট!",
-      "content": "আমাদের সকল টুলের নতুন আপডেট আসছে আগামী সপ্তাহে। সাথেই থাকুন।",
-      "type": "info",
-      "date": "2026-05-14"
+      "status": "active",
+      "version": "2.1.5"
     }
   ]
 }
