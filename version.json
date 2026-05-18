@@ -1,5 +1,17 @@
 {
-  "tools": [],
+  "tools": [
+    {
+      "id": "tool-1779114701292",
+      "name": "Extranel",
+      "version": "1.0.0",
+      "description": "",
+      "download_url": "https://drive.google.com/file/d/1PNzJ3Kutx2flG85W3ztL1ZygjGlJjta9/view?usp=sharing",
+      "tag": "",
+      "release_date": "2026-05-18",
+      "last_updated": "১৮ মে, ২০২৬ এ ১০:৩১ PM",
+      "status": "active"
+    }
+  ],
   "notices": [
     {
       "id": "1",
