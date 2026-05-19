@@ -26,10 +26,14 @@
       "version": "1.0.1",
       "description": "RAR PASSWORD : 1",
       "download_url": "https://drive.google.com/file/d/1PNzJ3Kutx2flG85W3ztL1ZygjGlJjta9/view?usp=sharing",
-      "image_url": "https://raw.githubusercontent.com/asshanto23454/UPDATE/main/images/img_1779157057792.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/asshanto23454/UPDATE/main/images/img_1779157057792.jpg",
+        "https://raw.githubusercontent.com/asshanto23454/UPDATE/main/images/img_1779158702428_0.jpg",
+        "https://raw.githubusercontent.com/asshanto23454/UPDATE/main/images/img_1779158704393_1.jpg"
+      ],
       "tag": "",
       "release_date": "2026-05-18",
-      "last_updated": "১৯ মে, ২০২৬ এ ১০:১৭ AM",
+      "last_updated": "১৯ মে, ২০২৬ এ ১০:৪৫ AM",
       "status": "active"
     },
     {
