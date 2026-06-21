@@ -10,15 +10,15 @@
   ],
   "tools": [
     {
+      "id": "tool-1782063904159",
+      "name": "Smart Entry Panel",
+      "version": "1.0.0",
       "description": "",
       "download_url": "ggfhfghfgghf",
-      "id": "tool-1782063904159",
-      "last_updated": "২২ জুন, ২০২৬ এ ০১:৪৫ AM",
-      "name": "Smart Entry Panel",
+      "tag": "NEW",
       "release_date": "2026-06-22",
-      "status": "active",
-      "tag": "BETA",
-      "version": "1.0.0"
+      "last_updated": "২২ জুন, ২০২৬ এ ০১:৪৫ AM",
+      "status": "active"
     },
     {
       "description": "RAR PASSWORD : 1",
