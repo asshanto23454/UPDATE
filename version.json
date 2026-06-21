@@ -43,15 +43,15 @@
       "status": "active"
     },
     {
+      "id": "tool-1779111500593",
+      "name": "ENEMY LOCATION",
+      "version": "1.0.1",
       "description": "RAR PASSWORD : 1",
       "download_url": "https://drive.google.com/file/d/1NJPlUBKF1i_l1CE_T1NM7nfqBOb_40fP/view?usp=sharing",
-      "id": "tool-1779111500593",
-      "last_updated": "২৯ মে, ২০২৬ এ ১১:১০ PM",
-      "name": "ENEMY LOCATION",
+      "tag": "NEW",
       "release_date": "2026-05-29",
-      "status": "active",
-      "tag": "",
-      "version": "1.0.1"
+      "last_updated": "২২ জুন, ২০২৬ এ ০১:৪৫ AM",
+      "status": "active"
     }
   ]
 }
