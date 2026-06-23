@@ -10,15 +10,15 @@
   ],
   "tools": [
     {
+      "id": "tool-1782063904159",
+      "name": "Smart Entry Panel",
+      "version": "1.0.0",
       "description": "",
       "download_url": "ggfhfghfgghf",
-      "id": "tool-1782063904159",
-      "last_updated": "২২ জুন, ২০২৬ এ ০১:৪৫ AM",
-      "name": "Smart Entry Panel",
+      "tag": "HOT",
       "release_date": "2026-06-22",
-      "status": "maintenance",
-      "tag": "NEW",
-      "version": "1.0.0"
+      "last_updated": "২৪ জুন, ২০২৬ এ ০৩:৫৬ AM",
+      "status": "maintenance"
     },
     {
       "id": "tool-1779111851658",
