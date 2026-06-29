@@ -10,6 +10,17 @@
   ],
   "tools": [
     {
+      "id": "tool-1782761742115",
+      "name": "EMOT PANEL",
+      "version": "1.2",
+      "description": "সকল ডিভাইস সাপোর্টেড মোবাইল এবং পিসি",
+      "download_url": "https://drive.google.com/file/d/1qdcf_7ZurBe1KcjKPjxatGFD0IfL0xvW/view?usp=sharing",
+      "tag": "PRO",
+      "release_date": "2026-06-29",
+      "last_updated": "৩০ জুন, ২০২৬ এ ০৩:৩৫ AM",
+      "status": "active"
+    },
+    {
       "description": "RAR 1",
       "download_url": "https://drive.google.com/file/d/1RjUA1ztJO5Ila-eymGgBM6CLPryfnXq-/view?usp=sharing",
       "id": "tool-1782063904159",
@@ -32,15 +43,15 @@
       "version": "1.0.0"
     },
     {
-      "id": "tool-1779111764551",
-      "name": "EXTRANEL",
-      "version": "1.0.3",
       "description": "RAR PASSWORD : 1",
       "download_url": "https://drive.google.com/file/d/1cz_l0mrNyZ45sunZmmvKCC0DRXAzpI29/view?usp=sharing",
-      "tag": "BETA",
-      "release_date": "2026-06-05",
+      "id": "tool-1779111764551",
       "last_updated": "৩০ জুন, ২০২৬ এ ০১:৩৫ AM",
-      "status": "active"
+      "name": "EXTRANEL",
+      "release_date": "2026-06-05",
+      "status": "active",
+      "tag": "BETA",
+      "version": "1.0.3"
     },
     {
       "description": "RAR PASSWORD : 1",
